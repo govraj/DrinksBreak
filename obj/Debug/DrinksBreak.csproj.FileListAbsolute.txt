@@ -1,0 +1,9 @@
+c:\users\govinda\documents\visual studio 2013\Projects\DrinksBreak\DrinksBreak\bin\Debug\DrinksBreak.exe.config
+c:\users\govinda\documents\visual studio 2013\Projects\DrinksBreak\DrinksBreak\obj\Debug\DrinksBreak.csprojResolveAssemblyReference.cache
+c:\users\govinda\documents\visual studio 2013\Projects\DrinksBreak\DrinksBreak\obj\Debug\DrinksBreak.Form1.resources
+c:\users\govinda\documents\visual studio 2013\Projects\DrinksBreak\DrinksBreak\obj\Debug\DrinksBreak.Properties.Resources.resources
+c:\users\govinda\documents\visual studio 2013\Projects\DrinksBreak\DrinksBreak\obj\Debug\DrinksBreak.csproj.GenerateResource.Cache
+c:\users\govinda\documents\visual studio 2013\Projects\DrinksBreak\DrinksBreak\bin\Debug\DrinksBreak.exe
+c:\users\govinda\documents\visual studio 2013\Projects\DrinksBreak\DrinksBreak\bin\Debug\DrinksBreak.pdb
+c:\users\govinda\documents\visual studio 2013\Projects\DrinksBreak\DrinksBreak\obj\Debug\DrinksBreak.exe
+c:\users\govinda\documents\visual studio 2013\Projects\DrinksBreak\DrinksBreak\obj\Debug\DrinksBreak.pdb
